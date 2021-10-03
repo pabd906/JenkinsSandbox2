@@ -3,3 +3,5 @@ Testing Git, GitHub and Jenkins integration
 Testing build changes again.
 
 More Jenkins testing.
+
+Testing Nexus integration.
